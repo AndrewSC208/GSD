@@ -1,0 +1,10 @@
+.del-btn {
+	padding: 0px;
+	margin: 0px;
+	width: 24px;
+	height: 24px;
+}
+
+.list-group-item:hover {
+	background-color: #18BC9C;
+}
